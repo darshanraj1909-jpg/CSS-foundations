@@ -1,0 +1,25 @@
+/*color- rgb,hex;
+selector-universal,element,id,class; 
+text-align,text-transform,font-size,font-style,font-family  */
+
+div{
+    text-align:center;
+    height:20px;
+    width:100px;
+    background-color:pink;
+    /*sborder-width:2px;
+    border-style:dotted;
+    border-color:rgb(247, 6, 46)*/
+    border: 2px dotted rgb(247,6,46);
+    border-radius:50%;
+
+}
+h1{
+    text-align:center;
+    height:100px;
+    width:200px;
+    background-color:aquamarine;
+    border-width:2px;
+    border-style:dotted;
+    border-color:rgb(46, 134, 46)
+}

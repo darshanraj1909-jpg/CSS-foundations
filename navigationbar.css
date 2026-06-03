@@ -1,0 +1,30 @@
+/* BASICS
+color: , background-color: 
+color- rgb,hex;
+selector-universal,element,id,class; 
+text-align,text-transform,font-size,font-style,font-family  */
+*{
+    padding:0;
+    margin:0;
+    
+}
+
+#navbar{
+    height:60px;
+    background-color: #0f1111;
+}
+#logo{
+    font-size:25px;
+    color:rgb(167, 167, 7);
+}
+.info{
+    font-size:15px;
+    color:white;  
+}
+a{
+    margin-right:200px;
+    text-decoration:none;
+}
+button{
+    background-color:#f08804;
+}
